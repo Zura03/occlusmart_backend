@@ -1,0 +1,1 @@
+{"status": "success", "scan_id": "edb599c6-9051-4410-b8a5-c46541423795", "analysis": {"occlusion_score": 0.85, "alignment_score": 0.92, "findings": ["Good overall occlusion", "Slight misalignment on lower right molars"], "recommendations": ["Consider minor adjustment to lower right molars", "Schedule follow-up in 2 weeks"]}}
