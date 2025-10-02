@@ -86,4 +86,6 @@ ehthumbs.db
 Thumbs.db
 
 # Uploaded files
-uploads/
+# Track only .gitkeep in uploads directory
+uploads/*
+!uploads/.gitkeep
